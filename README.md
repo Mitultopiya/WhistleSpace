@@ -39,7 +39,7 @@
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/whistlespace.git
+git clone https://github.com/Mitultopiya/whistlespace.git
 cd whistlespace
 ```
 
@@ -123,30 +123,3 @@ npm install
 
 - [Frontend README](./frontend/README.md)
 - [Backend README](./backend/README.md)
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## 📝 License
-
-[MIT](LICENSE)
-
----
-
-## 🙏 Acknowledgements
-
-- [React](https://react.dev/)
-- [Chakra UI](https://chakra-ui.com/)
-- [Express](https://expressjs.com/)
-- [MongoDB](https://www.mongodb.com/)
-- [Nodemailer](https://nodemailer.com/)
-- [OpenAI](https://openai.com/)
-
----
-
-**Made with ❤️ for open feedback and better communication.**
