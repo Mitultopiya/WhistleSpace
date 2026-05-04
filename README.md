@@ -105,20 +105,6 @@ npm install
 
 ---
 
-## 🖥️ Usage
-
-- **Feedback Board:**  
-  Visit `/` to submit and view feedback anonymously.
-
-- **Admin Login:**  
-  Visit `/admin/login` to log in as admin.  
-  After login, access the dashboard at `/admin/dashboard`.
-
-- **Feedback Details:**  
-  Click "View Details" on any feedback to see comments and add your own.
-
----
-
 ## 📁 Subproject READMEs
 
 - [Frontend README](./frontend/README.md)
